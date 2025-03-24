@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="7Ultimate">resources/versions/7/ultimate.png</file>
+        <file alias="vistaUltimate">resources/versions/vista/ultimate.png</file>
+        <file alias="7Ico">resources/versions/7/app.ico</file>
+        <file alias="8">resources/versions/8/noedition.png</file>
+    </qresource>
+</RCC>
